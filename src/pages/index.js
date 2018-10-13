@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const IndexPage = () => (
   <Layout>
     <h1>My first Gatsby site</h1>
-    <p>A single page application with Gatsby</p>
+    <p>A simple single page application with Gatsby</p>
   </Layout>
 )
 
